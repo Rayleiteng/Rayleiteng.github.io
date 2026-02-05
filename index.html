@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teng Lei | Math & CS @ GTIIT</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #3498db;
+            --text-color: #333;
+            --bg-color: #fcfcfc;
+            --section-bg: #fff;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 50px;
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 30px;
+        }
+        h1 { margin: 0; font-size: 2.5em; color: var(--primary-color); }
+        .subtitle { color: #666; font-size: 1.2em; margin-top: 10px; }
+        .contact-info { margin-top: 15px; font-size: 0.95em; }
+        .contact-info a { color: var(--accent-color); text-decoration: none; margin: 0 10px; }
+        
+        section {
+            background: var(--section-bg);
+            margin-bottom: 30px;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        h2 {
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--accent-color);
+            padding-bottom: 10px;
+            margin-top: 0;
+            display: inline-block;
+        }
+        .item { margin-bottom: 20px; }
+        .item-header { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;}
+        .item-title { font-weight: bold; font-size: 1.1em; color: #2c3e50; }
+        .item-subtitle { font-style: italic; color: #555; }
+        .item-date { color: #777; font-size: 0.9em; }
+        ul { margin-top: 10px; padding-left: 20px; }
+        li { margin-bottom: 5px; }
+        
+        .skills-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; }
+        .skill-category { font-weight: bold; color: var(--primary-color); }
+        
+        @media (max-width: 600px) {
+            .item-header { flex-direction: column; }
+            .item-date { margin-top: 5px; }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Teng Lei (雷腾)</h1>
+    <div class="subtitle">Math & CS Undergraduate @ GTIIT | AI & Systems Researcher</div>
+    <div class="contact-info">
+        <a href="mailto:lei24627@gtiit.edu.cn">lei24627@gtiit.edu.cn</a> |
+        <a href="https://github.com/Rayleiteng" target="_blank">github.com/Rayleiteng</a> |
+        <span>📍 Shantou, China</span>
+    </div>
+</header>
+
+<section>
+    <h2>🎓 Education</h2>
+    <div class="item">
+        <div class="item-header">
+            <span class="item-title">Guangdong Technion-Israel Institute of Technology (GTIIT)</span>
+            <span class="item-date">Sep. 2023 - Present</span>
+        </div>
+        <div class="item-subtitle">B.Sc. in Mathematics with Computer Science</div>
+        <ul>
+            <li><strong>GPA: 97.4 / 100</strong> | <strong>Ranking: 1 / 74</strong></li>
+            <li><strong>Honors:</strong> Vice Chancellor's List Scholarship, Second Class Chancellor's Scholarship.</li>
+            <li><strong>Core Coursework:</strong> Operating Systems, Data Structures, Numerical Analysis, Probability Theory, Combinatorial Algorithms.</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>🔬 Research Experience</h2>
+    
+    <div class="item">
+        <div class="item-header">
+            <span class="item-title">Optimization of CodaMOSA with LLM-Assisted Program Synthesis</span>
+            <span class="item-date">Jan. 2026 - Present</span>
+        </div>
+        <div class="item-subtitle">Advisor: Prof. Diego Garbervetsky & Nazareno Aguirre</div>
+        <ul>
+            <li>Conducting independent research on <strong>LLM-augmented program synthesis</strong> to optimize CodaMOSA through prompt design.</li>
+            <li>Investigating asynchronous collaboration between MOSA and LLMs to improve computational efficiency.</li>
+            <li>Implementing LLM-based output auditing to assess semantic validity and reduce synthesis errors.</li>
+        </ul>
+    </div>
+
+    <div class="item">
+        <div class="item-header">
+            <span class="item-title">Automatic Recognition of Blackboard Writing (NLP)</span>
+            <span class="item-date">Nov. 2025 - Present</span>
+        </div>
+        <div class="item-subtitle">Advisor: Prof. Antti Resila</div>
+        <ul>
+            <li>Designing a pipeline to recognize handwritten mathematical blackboard content into <strong>LaTeX</strong>.</li>
+            <li>Combining OCR preprocessing, BPE-based tokenization, and <strong>Transformer architectures</strong> for complex symbolic patterns.</li>
+        </ul>
+    </div>
+    
+    <div class="item">
+        <div class="item-header">
+            <span class="item-title">Algebraic Equations & Galois Theory</span>
+            <span class="item-date">Oct. 2025 - Present</span>
+        </div>
+        <div class="item-subtitle">Advisor: Boris Shapiro</div>
+        <ul>
+            <li>Advanced reading on algebraic/topological aspects of polynomial solvability (Abel-Ruffini theorem, Riemann surfaces).</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>💻 Selected Projects</h2>
+    
+    <div class="item">
+        <div class="item-header">
+            <span class="item-title">Operating System Design (xv6 Kernel)</span>
+            <span class="item-date">Nov. 2025 - Dec. 2025</span>
+        </div>
+        <ul>
+            <li>Extended the <strong>xv6 OS</strong> with null pointer checking, memory address protection, and multithreading support.</li>
+            <li>Modified core kernel components (process management, memory handling) with rigorous validation.</li>
+            <li>Achieved <strong>full marks</strong> for system correctness and stability.</li>
+        </ul>
+    </div>
+
+    <div class="item">
+        <div class="item-header">
+            <span class="item-title">Huarong Dao Puzzle Game (Z80 Assembly)</span>
+            <span class="item-date">Dec. 2024 - Jan. 2025</span>
+        </div>
+        <ul>
+            <li>Led a team to develop a puzzle game from scratch using <strong>Z80 Assembly</strong>.</li>
+            <li>Implemented core mechanics: block selection, collision detection, and level progression logic.</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>🛠 Skills</h2>
+    <div class="skills-grid">
+        <div><span class="skill-category">Languages:</span> C/C++, Python, Java, SQL, Assembly (x86, MIPS, Z80)</div>
+        <div><span class="skill-category">Frameworks:</span> PyTorch, TensorFlow, MySQL, Unix/Linux</div>
+        <div><span class="skill-category">Math & Tools:</span> LaTeX, Numerical Analysis, Mathematical Statistics</div>
+    </div>
+</section>
+
+<footer style="text-align: center; margin-top: 50px; font-size: 0.8em; color: #888;">
+    <p>&copy; 2026 Teng Lei. Hosted on GitHub Pages.</p>
+</footer>
+
+</body>
+</html>
