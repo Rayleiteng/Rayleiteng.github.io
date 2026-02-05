@@ -2,7 +2,7 @@
 
 **Tel:** +86-13316109057 | **E-mail:** lei24627@gtiit.edu.cn | **GitHub:** [Rayleiteng](https://github.com/Rayleiteng)
 
-> 📄 **[点击下载我的简历原件 (PDF)](./CV_of_TengLEI.pdf)**
+> 📄 **[Click to download my CV (PDF)](./CV_of_TengLEI.pdf)**
 
 ---
 
