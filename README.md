@@ -12,12 +12,27 @@
 *Bachelor of Science in Mathematics with Computer Science*
 * **GPA:** 97.4/100 | **Ranking:** 1/74
 * **Dates:** Sep. 2023 - Present (Expected in June 2027)
-* **Core Coursework:** Introduction to Systems Programming, Data Structures, Digital Systems and Computer Structure, Combinatorial Algorithms, Operating Systems, Probability theory, Mathematical Statistics, Introduction to Numerical Analysis.
-* **Honors:** Vice Chancellor's list Scholarship, Second Class Chancellor's Scholarship.
+* **Core Coursework:** Computer Architecture, Data Structures, Digital Systems and Computer Structure, Combinatorial Algorithms, Operating Systems, Programming Languages, Mathmetical Statistics, Introduction to Numerical Analysis
+* **Honors:** Vice Chancellor's list Scholarship, Second Class Chancellor's Scholarship
+
+---
+
+## PUBLICATIONS
+
+* 1. Liu, Y., Zheng, Y., Ye, W., Lei, T., Tang, H., & Mou, Z. (2026). *An Efficient Lightweight Spike Neuron Network Applied to Post-stroke Dysarthria Speech Recognition.* Speech Communications. (Accepted)
+* 2. Tan, G., Liu, Y., Ye, W., Lei, T., & Liang, Z. (2026). *Fusing Multiple Views in Silicon: An FPGA-Accelerated Spiking Siamese Network for Anticancer Drug Interaction Prediction.* IEEE Transactions on Very Large Scale Integration Systems (TVLSI). (Submitted to Journal)
+* 3. Li, J., Liang, Y., Ye, W., Lei, T., Wang, P., Zhang, G., & Liu, Y. (2026). *Dual-Branch AIGC Image Detection Leveraging Integrated Semantic and Frequency-Domain Features.* Computer Vision and Image Understanding. (Submitted to Journal)
 
 ---
 
 ## RESEARCH EXPERIENCE
+
+**An effcient lightweight Spike Neuron Network applied to Post-stroke Dysarthria speechrecognition**
+*Role: 3rd Author*
+*2026*
+* Responsible for reproducing and evaluating baseline models (VGG11, ResNet18, Conformer, Spikeformer) on the PSD dataset.
+* Assisted in the data preprocessing pipeline, extracting 39-dimensional MFCCs (including delta and delta-delta coefficients) to replace compute-heavy spectrograms, reducing input FLOPs.
+* Conducted ablation studies on temporal steps (T=1,2,4) of LIF neurons to verifyenergy efficiency versus accuracy trade-offs.
 
 **Optimization of CodaMOSA with LLM-Assisted Program Synthesis**
 *Independent Research Project / Advisor: Prof. Diego GARBERVETSKY and Nazareno AGUIRRE*
@@ -80,5 +95,5 @@
 
 ## LANGUAGES & SKILLS
 
-* **Programming:** C/C++, Python, Java, SQL, x86, MIPS, z80, etc.
+* **Programming:** C/C++, Python, Java, SQL, x86, MIPS, z80, Haskell, etc.
 * **Technical Framework:** Unix/Linux, MySQL, PyTorch, TensorFlow, etc.
