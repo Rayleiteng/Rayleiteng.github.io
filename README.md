@@ -95,5 +95,5 @@
 
 ## LANGUAGES & SKILLS
 
-* **Programming:** C/C++, Python, Java, SQL, x86, MIPS, z80, Haskell, etc.
+* **Programming:** C/C++, Python, Java, SQL, x86, MIPS, z80, Haskell, Lean4 etc.
 * **Technical Framework:** Unix/Linux, MySQL, PyTorch, TensorFlow, etc.
