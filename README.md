@@ -55,7 +55,7 @@
 
 ### Algebraic equations of low degree and introduction to Galois theory
 
-**Advisor:** Boris Shapiro | **Oct. 2025 - Present**
+**Advisor:** Boris Shapiro | **Oct. 2025 - Jun. 2026**
 
 - Advanced readings on the algebraic and topological aspects of polynomial solvability. Studied topics including solutions of cubic and quartic equations, Abel-Ruffini theorem, insolvability of the general quintic, monodromy groups, Riemann surfaces of algebraic functions, and Arnold's elementary and topological approaches to equation theory.
 
@@ -63,7 +63,7 @@
 
 *NLP Project* | **Advisor:** Prof. Antti Rasila
 
-**Nov. 2025 - Present**
+**Nov. 2025 - Mar. 2026**
 
 - Planned to design and implement a specialized language modeling framework for recognizing handwritten mathematical blackboard content, combining OCR preprocessing, BPE-based tokenization, and Transformer architectures to handle complex symbolic and structural patterns.
 - Implemented an end-to-end recognition pipeline for handwritten mathematical blackboard notes, converting noisy visual inputs into structured LaTeX outputs to enhance clarity and interpretability.
