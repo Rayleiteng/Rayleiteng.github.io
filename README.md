@@ -2,7 +2,7 @@
 
 **Tel:** +86-13316109057 | **E-mail:** [lei24627@gtiit.edu.cn](mailto:lei24627@gtiit.edu.cn) | **GitHub:** [Rayleiteng](https://github.com/Rayleiteng)
 
-> 📄 **[Download my CV (PDF)](./CV_of_TengLEI.pdf)**
+> 📄 **[Download my CV (PDF)](./CV_of_Teng.pdf)**
 
 ---
 
@@ -17,7 +17,7 @@
 - **GPA:** 96.9/100
 - **Ranking:** 1/74
 - **Core Coursework:** Computer Architecture, Operating Systems, Digital Systems, Data Structures, Programming Languages, Combinatorial Algorithms, Mathematical Statistics, Introduction to Numerical Analysis
-- **Honors:** Vice Chancellor's List Scholarship; Second Class Chancellor's Scholarship
+- **Honors:** Vice Chancellor's List Scholarship; Second Class Chancellor's Scholarship; 2025-2026 China National Scholarship - University Nominee (Final Approval Pending)
 
 ---
 
