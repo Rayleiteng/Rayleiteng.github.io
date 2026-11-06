@@ -15,7 +15,7 @@
 **Sep. 2023 - Present** | Expected Jun. 2027
 
 - **GPA:** 96.9/100
-- **Ranking:** 1/74
+- **Ranking:** 1/70
 - **Core Coursework:** Computer Architecture, Operating Systems, Digital Systems, Data Structures, Programming Languages, Combinatorial Algorithms, Mathematical Statistics, Introduction to Numerical Analysis
 - **Honors:** Vice Chancellor's List Scholarship; Second Class Chancellor's Scholarship; 2025-2026 China National Scholarship - University Nominee (Final Approval Pending)
 
